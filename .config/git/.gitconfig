@@ -1,0 +1,10 @@
+[core]
+	excludesFile = ~/.config/git/gitignore_global
+[user]
+	name = wiz
+	email = wiz@oz.com
+[alias]
+	s = status
+	c = commit
+	go = push -u origin HEAD
+	au = add -u
